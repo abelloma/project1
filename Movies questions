@@ -1,0 +1,34 @@
+Project Objective: What is the biggest contributin factor to gross domestic sales
+Client: Studios
+Driver: Money/Profitable 
+Scope
+⦁	Timeframe: Last 20 years, refine as we find out much
+⦁	Amounts: Find a minimum box office numbers, start with $10M
+⦁	Only Domestic
+
+Data sources
+OMDB API: url = "http://www.omdbapi.com/?t=", api_key = "&apikey=trilogy"
+Numbers: https://www.the-numbers.com/movie/budgets/all
+Rotten tomatoes: https://www.kaggle.com/stefanoleone992/rotten-tomatoes-movies-and-critics-datasets
+Rotten tomatoes: https://www.kaggle.com/rpnuser8182/rotten-tomatoes
+
+Questions to answer/chart
+How do ratings have an effect on domestic gross profit?
+⦁	Compare over all 
+⦁	Compare between professional and audience rating
+
+How do runtimes have an effect on domestic gross profit?
+⦁	Compare over all 
+⦁	Compare between professional and audience rating
+
+How does genre have effect on domestic gross profit?
+⦁	Compare over all 
+⦁	Compare between professional and audience rating
+
+How does initial investment have an effect on domestic gross profit?
+⦁	Compare over all 
+⦁	Compare between professional and audience rating
+
+How does Awards have an effect on domestic gross profit?
+⦁	Compare over all 
+⦁	Compare between professional and audience rating
